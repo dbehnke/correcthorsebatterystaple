@@ -1,6 +1,6 @@
 BIN=chbs
 
-all: $(GATEWAYPINGS_INSTALLER)
+all: bin/$(BIN)
 
 .PHONY: gb
 gb:
