@@ -35,3 +35,10 @@ https://explainxkcd.com/936/
 
 3. Run make, output will be in the bin folder.
 
+# Credits
+
+Go Programming Language
+
+xkcd for the cartoon
+
+SCOWL for the word list - http://wordlist.aspell.net
