@@ -7,7 +7,7 @@ https://explainxkcd.com/936/
 
 # Quickstart
 
-1. You can download the binary from releases (Windows, Mac, Linux (64 Bit))
+1. You can download the binary from [releases](https://github.com/dbehnke/correcthorsebatterystaple/releases "Releases") (Windows, Mac, Linux (64 Bit))
 
 2. Unzip the archive
 
